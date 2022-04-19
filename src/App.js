@@ -21,7 +21,7 @@ function App() {
         <p>
           Truong Score
         </p>
-        <p>Xin chao {name} - {age} - {isVip ? 'Vip' : 'Pro'}</p>
+        <p>Xin chao {name} - Tuoi {age} - Trinh do {isVip ? 'Vip' : 'Pro'}</p>
         <p>{student.name}</p>
         <ul>
           {colorList.map(color => (
