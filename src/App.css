@@ -24,6 +24,14 @@
   color: white;
 }
 
+.todo{
+  background-color: #b54040;
+}
+
+.color-box, .counter{
+  background-color: #b0c934;
+}
+
 .App-link {
   color: #61dafb;
 }
