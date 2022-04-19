@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          Truong Score was visited
+          Truong Score was visited. Push code already.
         </p>
         <a
           className="App-link"
